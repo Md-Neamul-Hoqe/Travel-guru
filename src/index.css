@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  @apply font-Montserrat;
+}
+.active {
+  @apply text-yellow;
+  @apply border-b;
+  @apply border-spacing-3;
+  @apply rounded-none;
+  @apply border-yellow;
+}
+
+li > a:hover {
+  @apply text-yellow;
+  @apply border-b;
+  @apply border-spacing-3;
+  @apply rounded-none;
+  @apply border-yellow;
+}
+
+.btn {
+  @apply capitalize;
+}
+
+.card-body input {
+  @apply text-black;
+  @apply font-bold;
+}

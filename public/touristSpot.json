@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Cox's Bazar",
+    "description": "Cox's Bazar, located in southeastern Bangladesh, is a mesmerizing coastal town blessed with the world's longest natural sea beach, extending over 120 kilometers along the picturesque Bay of Bengal. This enchanting destination is a haven for both local and international tourists, drawing them with its pristine shoreline and a multitude of attractions. The sandy beach, gently kissed by the waves, offers a perfect backdrop for leisurely walks and awe-inspiring sunsets that paint the sky with vibrant hues.\n\nVisitors to Cox's Bazar can indulge in an array of water sports, including jet skiing, parasailing, and surfing. The seafood here is a culinary delight, with fresh catches from the Bay of Bengal, tantalizing the taste buds of all who visit.\n\nBeyond the beach, Cox's Bazar boasts several landmarks, including Himchari National Park, which is a paradise for nature lovers and trekkers. The town also offers a glimpse into the culture and lifestyle of the local Chakma and Marma communities. Cox's Bazar is truly a destination that combines natural beauty, adventure, and cultural experiences.",
+    "short_description": "Cox's Bazar: Where the World's Longest Natural Sea Beach Beckons",
+    "bg_image": "../src/assets/images/cox_bazar-full.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Sreemangal",
+    "description": "Sreemangal, nestled in the serene northeastern region of Bangladesh, proudly wears the title of the 'Tea Capital of Bangladesh.' This lush and verdant landscape is a tapestry of rolling hills, covered with sprawling tea gardens that seem to stretch endlessly. It's a place where the air is filled with the soothing aroma of freshly plucked tea leaves, and the landscape is a painter's dream with shades of green as far as the eye can see.\n\nFor those seeking solace in nature, Sreemangal offers an abundance of trekking trails, bird-watching opportunities, and serene walks through tea plantations. The Lawachara National Park is a biodiversity hotspot, home to a diverse range of flora and fauna, including various species of primates and colorful birds.\n\nOne of the highlights of Sreemangal is its tea culture. Tourists can visit tea estates, witness the tea-making process, and savor some of the world's finest teas. The local cuisine, infused with tea flavors, is a culinary adventure in itself.\n\nSreemangal is a destination where nature, adventure, and tea converge, making it a must-visit for those seeking a tranquil escape in the lap of Mother Nature.",
+    "short_description": "Sreemangal: Where the Tea Gardens Stretch to Infinity",
+    "bg_image": "../src/assets/images/Sreemangal-Bangladesh-bangladesh-full.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sundarbans",
+    "description": "The Sundarbans, a UNESCO World Heritage site, is a natural wonder that sprawls across the delta region of Bangladesh and India. It is renowned as one of the largest mangrove forests on the planet and is a sanctuary for a plethora of unique and endangered wildlife species, including the elusive Bengal tiger.\n\nThe Sundarbans is a complex ecosystem, where towering mangrove trees thrive in the brackish waters of the Bay of Bengal. Its intricate network of waterways and tidal channels is best explored by boat. Travelers can embark on mesmerizing boat tours that take them through this enchanting labyrinth, offering glimpses of the rich biodiversity that calls this place home.\n\nThe highlight of a visit to the Sundarbans is the opportunity to spot the Royal Bengal Tiger, which prowls stealthily through the mangrove forests. Besides tigers, the region is teeming with saltwater crocodiles, various species of deer, and a wide array of avian wonders.\n\nVisiting the Sundarbans is not just an adventure; it's an expedition into the heart of an ecosystem that plays a crucial role in the ecological balance of the region. It's a chance to witness nature's raw beauty and its undisturbed inhabitants.\n\nExplore the Sundarbans, where every moment is a rendezvous with untamed wilderness and the allure of the unknown.",
+    "short_description": "Sundarbans: Where Nature's Majesty Meets the Bengal Tiger",
+    "bg_image": "../src/assets/images/Tourist-Places-In-Sundarban-full.jpg"
+  }
+]
